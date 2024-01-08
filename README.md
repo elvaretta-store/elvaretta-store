@@ -1,3 +1,9 @@
-<img src="raw.githubusercontent.com/elvaretta-store/index/main/Elvaretta%20Store.jpg>
+### INSTALL SCRIPT VPS V3.0 LTS
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/elvaretta-store/v3.0lts/main/premi.sh && chmod +x premi.sh && ./premi.sh
+</code></pre>
+ 
+### TESTED ON OS <br/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Debian&label=DEBIAN%2010&message=Running&color=purple">     <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Ubuntu&label=UBUNTU%2020.04.05&message=Running&color=orange">  
 
-![IMG_20231125_153610](Elvaretta Store.jpg)
+
+![Elvaretta Store](https://github.com/elvaretta-store/v3.0lts/assets/152579113/d3cc9d4c-4fae-4563-9a27-1611187a1c3f)
